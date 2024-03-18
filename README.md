@@ -1,0 +1,2 @@
+# stable-canvas-resources
+resources
